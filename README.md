@@ -1,6 +1,6 @@
 # CPE322
 **github for labs within CPE 322**
-*got to do the labs for this class*
+*here are all the labs with links* :joy:
 
 ### Labs 
 ---
@@ -29,10 +29,8 @@
 ### If I wanted to use python with a raspberrypi to light an LED 
 
 ```
-{
  In [1]: from gpiozero import LED
  In [2]: led = LED(17)
-}
 ```
 
 ~~I have to remember how to do all of this~~
