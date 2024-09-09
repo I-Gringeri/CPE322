@@ -8,7 +8,8 @@
 ---
 ## Overview for Assignment 0
 
-> "Before software should be reusable, it shound be usable." - Ralph Johnson
+> "Before software should be reusable, it shound be usable." 
+    - Ralph Johnson
 
 ### I'm very excited for this class and I can't wait to learn and am particularly interested in
 1. IoT drivers and how interoperabiality makes systems applicable and easier to use
