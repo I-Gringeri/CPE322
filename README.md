@@ -6,6 +6,7 @@
 ---
 
 [Lab1](./Lab1)
+[Lab2](./Lab2)
 ---
 ## Overview for Assignment 0
 
