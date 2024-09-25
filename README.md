@@ -1,5 +1,5 @@
 # CPE322
-**GitHub for labs within CPE 322**
+**GitHub for labs within CPE 322** 
 *here are all the labs with links* :joy:
 
 ### Labs 
