@@ -10,7 +10,7 @@
 ---
 I want to do this lab in several ways if possible, if I can find my raspberry pi when I'm at home, I want to use that. If not, I will do GHDL, Look at VHDL and Verilog to get deeper into it.
 --- 
-#Raspberry Pi OS
+# Raspberry Pi OS
 
 1. Setting up the RPi Emulator was annoying, but I knew this was something that I wanted to do
 2. I used VMWare since I wasn't in the mood to add another OS, or more like learn how to do another OS
