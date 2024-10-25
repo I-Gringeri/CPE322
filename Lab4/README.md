@@ -6,7 +6,7 @@
 - the plan is to do this via virtual machine
     * if I have time I want to try to do it with my personal computer as well
 
-    1. Set up Django + Rest
+1. Set up Django + Rest
     2. set up mariadb server + client
     3. Setting up stevens
     *   doing this by following the steps,
