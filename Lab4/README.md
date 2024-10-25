@@ -25,7 +25,7 @@
     * ![cpu](mycpu.png)
      * ![super](super user.png)
     * ![term](terminal.png)
-3. **I have everything documented for this lab except for the cpu web page actually working, so if you have any insight (as I followed the directions and double checked several times and still had no success**
+3. **I have everything documented for this lab except for the cpu web page actually working, so if you have any insight (as I followed the directions and double checked several times and still had no success) please let me know I am always interested to learn more**
     * ![stuck](stuckANDfrustrated.png)
 
 --- 
