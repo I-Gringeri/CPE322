@@ -25,8 +25,8 @@
     * ![cpu](mycpu.png)
      * ![super](super user.png)
     * ![term](terminal.png)
-3. **I have everything documented for this lab except for the cpu web page actually working, so if you have any insight (as I followed the directions and double checked several times and still had no success) please let me know I am always interested to learn more**
-    * ![stuck](stuckANDfrustrated.png)
+3. I was able to figure this one out with help, my passwords were not set to match, so once I did this I was able to get the mycpu page to work. My api key was not working but I was able to connect the server correctly
+    * ![fixed](figuredItOut.png)
 
 --- 
 
