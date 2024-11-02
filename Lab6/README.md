@@ -10,5 +10,5 @@
     *![node](node.png)
 
 - **Pystache**
-    *![hello](helloWorld.png)cat
+    *![hello](helloWorld.png)
     *![cat](cat.png)
